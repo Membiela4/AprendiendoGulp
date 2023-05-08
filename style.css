@@ -1,0 +1,69 @@
+.perfil {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+.perfil h2 {
+  background-color: green;
+}
+
+html {
+  background-color: #F0FFFF;
+}
+
+body {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.modulos {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+.modulos h3 {
+  margin-bottom: 5px;
+}
+.modulos table {
+  border-color: black;
+  border: 3px solid;
+}
+.modulos h3 {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+td {
+  border-color: black;
+  border: 3px solid;
+}
+
+table td:nth-child(1) {
+  background-color: green;
+}
+table td:nth-child(2) {
+  background-color: red;
+}
+table td:nth-child(3) {
+  background-color: blue;
+}
+table td:nth-child(4) {
+  background-color: yellow;
+}
+table td:nth-child(5) {
+  background-color: pink;
+}
+table td:nth-child(6) {
+  background-color: purple;
+}
+table td:nth-child(7) {
+  background-color: grey;
+}
+
+/*# sourceMappingURL=style.css.map */
